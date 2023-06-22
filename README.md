@@ -48,4 +48,4 @@ To customize the portfolio, you can modify the HTML and CSS files according to y
 Contributions are welcome! If you have any suggestions, improvements, or bug fixes, please submit a pull request. For major changes, please open an issue first to discuss the proposed changes.
 
 ## License
-This project is licensed under the [MIT License](LICENSE). Feel free to use and modify the code for personal or commercial purposes.
+This project is licensed under the [MIT License](https://github.com/harishngt/My-Portfolio-Website/blob/main/LICENSE). Feel free to use and modify the code for personal or commercial purposes.
