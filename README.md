@@ -1,7 +1,7 @@
 # HTML/CSS Portfolio Readme
 
 ## Description
-This repository contains the source code for a simple HTML/CSS portfolio website. It can be used as a starting point to showcase your work, skills, and achievements. The portfolio is designed using HTML for structuring the content and CSS for styling.
+This repository contains the source code for a simple HTML/CSS portfolio website. It can be used as a starting point to showcase your work, skills, and achievements. The portfolio is designed using HTML for structuring the content and CSS for styling the portfolio.
 
 ## Table of Contents
 - [Features](#features)
